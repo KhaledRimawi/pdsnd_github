@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 ### Do it by rimawi 
 ## new new 
+=======
+
+>>>>>>> refactoring
 ### Date created
 Include the date you created this project and README file.
 
