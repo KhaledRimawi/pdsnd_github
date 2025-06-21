@@ -7,7 +7,7 @@ CITY_DATA = {
     'new york': 'new_york_city.csv',
     'washington': 'washington.csv'
 }
-
+# hi its me rimawi in new virgin 
 MONTHS = ['january', 'february', 'march', 'april', 'may', 'june']
 
 def get_filters():
